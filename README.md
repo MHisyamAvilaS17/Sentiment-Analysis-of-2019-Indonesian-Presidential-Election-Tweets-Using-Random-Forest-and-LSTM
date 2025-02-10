@@ -18,6 +18,7 @@ This project analyzes public sentiment on the 2019 Indonesian Presidential Elect
 
 1. Clone the repository:
 git clone https://github.com/MHisyamAvilaS17/Sentiment-Analysis-of-2019-Indonesian-Presidential-Election-Tweets-Using-Random-Forest-and-LSTM.git
+
 cd sentiment-analysis
 
 2. Install dependencies:
