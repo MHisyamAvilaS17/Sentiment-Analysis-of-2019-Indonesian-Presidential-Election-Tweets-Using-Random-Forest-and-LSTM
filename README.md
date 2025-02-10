@@ -3,7 +3,7 @@ This project analyzes public sentiment on the 2019 Indonesian Presidential Elect
 
 🚀 Key Features
 
-1. Text Preprocessing: Includes tokenization, stopword removal, stemming, lemmatization, and Named Entity Recognition (NER).
+1. Text Preprocessing: Includes tokenization, stopword removal, stemming, lemmatization using KBBI, and Named Entity Recognition (NER).
 
 2. Feature Extraction: Implements TF-IDF and Word2Vec for vectorization.
 
@@ -11,7 +11,7 @@ This project analyzes public sentiment on the 2019 Indonesian Presidential Elect
 
 4. Performance Evaluation: Metrics include Accuracy, Precision, Recall, and F1-Score.
 
-5. Comparison: Analyzes the effectiveness of Random Forest vs LSTM in sentiment classification.
+5. Model Testing: Evaluates the performance of Random Forest and LSTM models on sentiment classification tasks
 
 
 🔧 Installation
