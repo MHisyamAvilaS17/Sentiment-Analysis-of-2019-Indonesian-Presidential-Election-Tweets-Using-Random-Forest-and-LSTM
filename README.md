@@ -28,4 +28,5 @@ pip install -r requirements.txt
 
 
 📜 More Information
+
 The combination between LSTM and TF-IDF vectorization was not included in this code, as LSTM requires sequential data input, making it incompatible with TF-IDF features. Additionally, this combination yielded the lowest accuracy during preliminary tests.
